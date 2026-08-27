@@ -11,8 +11,8 @@ from telebot.apihelper import ApiTelegramException
 import shutil
 
 # --- КОНСТАНТЫ И НАСТРОЙКИ ---
-TOKEN = '8219935149:AAFyI8u5ZGwdwSYdpIM_ULhQAN_cWGlQico'
-ADMIN_ID = 6856725961
+TOKEN = 'какой то, секрет какой, теперь буду знать, что лучше не выкладывать точный токен в гит'
+ADMIN_ID = 0.20374982374908237432979392433248943298743299432943297
 bot = telebot.TeleBot(TOKEN)
 USER_DATA = "user_data.json"
 
